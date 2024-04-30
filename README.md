@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository is a demo for verifying the correctness of Paper XX submitted to CCS. This demo implements the core innovations of the paper, including the M-LWE algorithm and small matrix operations, aiming to showcase the practical effectiveness of our approach.
+This repository is a demo for verifying the correctness of Paper ML-ABE: Computational Overhead and Efficiency Optimal Module Lattice-Based Attribute-Based Encryption submitted to CCS. This demo implements the core innovations of the paper, including the M-LWE algorithm and small matrix operations, aiming to showcase the practical effectiveness of our approach.
 
 ## Features
 
@@ -24,5 +24,3 @@ Please note that this demo is designed solely for verifying the correctness of t
 
 - This demo is solely for academic exchange and verification purposes and should not be used for commercial use.
 - Please comply with relevant laws, regulations, and open source agreements when using this demo.
-
-Thank you for your interest and support for Paper XX and this demo! If you have any questions or suggestions, please feel free to contact us.
