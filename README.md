@@ -1,4 +1,4 @@
-# Demo for the Correctness of Paper ML-ABE: Computational Overhead and Efficiency Optimal Module Lattice-Based Attribute-Based Encryption
+# ML-ABE
 
 ## Introduction
 
@@ -7,18 +7,23 @@ This repository is a demo for verifying the correctness of Paper ML-ABE: Computa
 ## Features
 
 - **Demonstration of Core Innovations**: Integrates key technologies such as the M-LWE algorithm and small matrix operations, truly reflecting the innovativeness of the paper.
-- **Excellent Performance**: The demo runs in approximately 10ms, efficiently demonstrating the practicality of the algorithm.
-- **Lightweight Verification**: Focuses on verifying the correctness of the algorithms and techniques proposed in the paper, without involving all functionalities.
+- **Excellent Performance**: The demo highlights the decryption process, which runs in approximately 10ms, efficiently demonstrating the practicality of the algorithm.
+- **Lightweight Verification**: This demo concentrates on the fundamental functionalities proposed in the paper, such as encryption and decryption processes.
 
 ## Instructions
 
-1. **Environment Preparation**: Please ensure that the required dependency libraries and compilation environment are installed.
-2. **Compilation and Execution**: Compile according to the instructions in the project and run the demo program.
-3. **Viewing Results**: After running the program, key information such as running time will be displayed to verify the performance of the algorithm.
+1. **Environment Preparation**: Please ensure that you have Python 3.11 installed along with the following packages:
+   * numpy 1.26.2
+   * math (built-in Python module)
+   * random (built-in Python module)
+2. **Compilation and Execution**: Follow the instructions provided in the project to compile and run the demo program.
+3. **Viewing Results**: Upon running the program, key information, including decryption time, will be displayed to verify the performance of the algorithm.
+
+![alt text](pic/res.png)
 
 ## Open Source and Publication Plans
 
-Please note that this demo is designed solely for verifying the correctness of the algorithms and techniques proposed in Paper XX, and is not the complete version. The complete project is currently undergoing the open source application process at our research institution. We anticipate that the complete project will be made public upon the official publication of the paper or the approval of the open source application. Stay tuned!
+Please note that this demo serves solely as a tool for verifying the correctness of the algorithms and techniques detailed in our academic paper, "Computational Overhead and Efficiency Optimal Module Lattice-Based Attribute-Based Encryption" (abbreviated as ML-ABE in this readme). We anticipate that the full version of ML-ABE will accompany the submission of our camera-ready paper. Thank you for your patience, stay tuned for further updates!
 
 ## Disclaimer
 
