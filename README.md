@@ -23,7 +23,7 @@ This repository is a demo for verifying the correctness of Paper ML-ABE: Computa
 
 ## Open Source and Publication Plans
 
-Please note that this demo serves solely as a tool for verifying the correctness of the algorithms and techniques detailed in our academic paper, "Computational Overhead and Efficiency Optimal Module Lattice-Based Attribute-Based Encryption" (abbreviated as ML-ABE in this readme). We anticipate that the full version of ML-ABE will accompany the submission of our camera-ready paper. Thank you for your patience, stay tuned for further updates!
+Please note that this demo serves solely as a tool for verifying the correctness of the algorithms and techniques detailed in our academic paper, "Computational Overhead and Efficiency Optimal Module Lattice-Based Attribute-Based Encryption" (abbreviated as ML-ABE in this readme). We anticipate that the full version of ML-ABE will accompany the submission of our camera-ready paper. We anticipate that the complete project will be made public upon the official publication of the paper or the approval of the open source application. Thank you for your patience, stay tuned for further updates!
 
 ## Disclaimer
 
